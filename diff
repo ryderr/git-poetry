@@ -3,7 +3,7 @@ git diff
 plus
 minus
 
-git diff plus some flags
+git diff plus flags
 minus
 
 your hash
