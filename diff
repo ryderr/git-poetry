@@ -1,0 +1,15 @@
+git diff
+
+plus
+minus
+
+git diff plus some flags
+minus
+
+your hash
+plus mine
+minus mine
+
+is mine
+
+\ No newline at end of file
