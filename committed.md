@@ -1,29 +1,29 @@
-i commit
-im committed
-to you
+i commit  
+im committed  
+to you  
 i commit
 
-i submit
+i submit  
 issues
 
-i commit
+i commit  
 im committed
 
 to you
 
-you have 
+you have  
 features
 
 issues for iphone
 
 you have 
 
-im
+im  
 committed
 
 i commit
 
 to you
 
-you have
+you have  
 me
