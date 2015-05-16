@@ -11,7 +11,7 @@ then
 i open mergetool  
 thank god for you  
 CLEANING MY  
->>>>HEAD  
+\>>>>HEAD  
 MY DIRTY >>>>>>HEAD  
 are we done now?  
 can i ever really quit you?
