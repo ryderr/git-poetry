@@ -1,0 +1,31 @@
+Make me your tool for collaboration
+Linus Torvalds created me due to troubles in his current situation
+Under the GNU general public license
+Everybody praised his magnificence
+He pushed and pulled, and eventually started a new generation
+Of tracking file changes and new methods of coordination
+
+In the world of software development, 
+Git is a key element
+Those who use Git can be considered intelligent
+Git is the ultimate tool, for any code management
+However, if you remain adamant,
+You can message your code back and forth
+Though in any competition you may not place any better than fourth
+As you begin this venture,
+Just know that you will not suffer
+
+Use me to track all of your changes,
+Make me thy primary open-source tool for storing while coding
+I promise you won’t waste time loading
+Please utilize me to create a repository
+Don’t forget to make a ReadMe, it mustn’t be self-explanatory
+When working off someone’s code, use me to make your branch
+Just make sure there is no mismatch
+Once you write some code,
+Do not worry a bit
+All you have to do, is type git commit,
+Your work has been merged with master
+Oh no, what is this disaster?
+Open an issue as you please,
+And let someone else put you at ease
